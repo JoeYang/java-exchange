@@ -1,0 +1,36 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iws
+.idea_modules/
+
+# Maven build directory
+target/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# QuickFIX/J session files
+store/
+log/
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Java specific
+hs_err_pid*
